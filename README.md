@@ -14,8 +14,6 @@
 - Good understanding of Dockers, Jenkins, deployments, services and pipelines
 - Good understanding of writing unit test cases using Mockito, JUnit, Code coverage, Cucumber
 
-https://github.com/ganesanshanmugamn/ganesanshanmugamn.wiki.git
-
 
 <!---
 ganesanshanmugamn/ganesanshanmugamn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
